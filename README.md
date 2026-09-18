@@ -132,3 +132,7 @@ My goal is to keep building projects that demonstrate real implementation, clean
 💼 LinkedIn: https://www.linkedin.com/in/tharun-kolipaka/
 
 🐙 GitHub: https://github.com/tharunkolipaka
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
